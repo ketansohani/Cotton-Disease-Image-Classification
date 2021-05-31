@@ -4,7 +4,7 @@
 
 This is an image classification project to classify whether the image is of a diseased or fresh cotton plant/leaf. There are 1951 images present in the train dataset belonging to one of the four classes.
 
-The aim is to build an image classifier to correctly classify the images in the train dataset. I have used InceptionV3 transfer learning model for my project. I have trained this model in Google Colab.
+The aim is to build an image classifier to correctly classify the images in the train dataset. I have used "InceptionV3" transfer learning model for my project. I have trained this model in Google Colab.
 
 The dataset can be downloaded from : https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 
